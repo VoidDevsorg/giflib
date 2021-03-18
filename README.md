@@ -63,6 +63,8 @@ exports.config = {
 
 You can take a glance at <a href="https://glitch.com/edit/#!/giflib-example">Example infrastructure</a>
 
-## Licance
+## License
 
 > MIT (c) VoidDevs & ByQush
+
+https://voiddevs.org
