@@ -1,0 +1,40 @@
+{
+  "name": "giflib",
+  "version": "0.0.1",
+  "description": "GifLib Module by VoidDevs.org",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "bugs": {
+    "url": "https://github.com/VoidDevsorg/giflib/issues"
+  },
+
+  "dependencies": {
+    "axios": "^0.21.1",
+    "void.nsfw": "^1.0.8-beta",
+    "giphy-api":"2.0.1",
+    "@giphy/js-fetch-api":"2.4.0"
+  },
+
+  "homepage": "https://github.com/VoidDevsorg/giflib#readme",
+
+  "keywords": [
+    "Gif",
+    "Gif Library",
+    "Gif API",
+    "Unlimited Gifs",
+    "Gif Module"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/VoidDevsorg/giflib"
+  },
+  "author": {
+    "name": "ByQush",
+    "url": "https://voiddevs.org",
+    "email": "npmjs@voiddevs.org"
+  },
+  "license": "MIT"
+}
